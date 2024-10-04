@@ -1,1 +1,2 @@
 # dotfiles
+sudo pacman -S hyprland git firefox nautilus wofi kitty waybar hyprpaper
